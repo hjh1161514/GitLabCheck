@@ -13,5 +13,5 @@
 <img width="366" height="317" alt="파트너 ai" src="https://github.com/user-attachments/assets/3ba77fbd-9a52-4fe1-962d-4d2c7df6d9b5" />
 <img width="467" height="572" alt="all-care ai" src="https://github.com/user-attachments/assets/e9eb4a1b-91b0-4135-89c0-21a7a313db55" />
 <img width="467" height="626" alt="파트너" src="https://github.com/user-attachments/assets/ea465480-0fb0-4ede-abbe-dee1113a3890" />
-![파트너 ai](https://github.com/user-attachments/assets/588e147d-619c-4ba6-af5f-182c94bcc055)
 <img width="1024" height="1024" alt="학생2" src="https://github.com/user-attachments/assets/264dc8ea-cc08-47f0-8146-0b4b814285ac" />
+<img width="467" height="616" alt="스크린샷 2025-11-12 오후 6 32 51" src="https://github.com/user-attachments/assets/519a9147-4595-46f5-a203-0a4115a964bf" />
