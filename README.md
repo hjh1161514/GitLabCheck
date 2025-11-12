@@ -12,3 +12,4 @@
 <img width="576" height="576" alt="app_logo" src="https://github.com/user-attachments/assets/4abb5199-1e67-497b-ae37-57829713a746" />
 <img width="366" height="317" alt="파트너 ai" src="https://github.com/user-attachments/assets/3ba77fbd-9a52-4fe1-962d-4d2c7df6d9b5" />
 <img width="467" height="572" alt="all-care ai" src="https://github.com/user-attachments/assets/e9eb4a1b-91b0-4135-89c0-21a7a313db55" />
+<img width="467" height="626" alt="파트너" src="https://github.com/user-attachments/assets/ea465480-0fb0-4ede-abbe-dee1113a3890" />
