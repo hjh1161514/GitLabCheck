@@ -16,3 +16,4 @@
 <img width="1024" height="1024" alt="학생2" src="https://github.com/user-attachments/assets/264dc8ea-cc08-47f0-8146-0b4b814285ac" />
 <img width="467" height="616" alt="스크린샷 2025-11-12 오후 6 32 51" src="https://github.com/user-attachments/assets/519a9147-4595-46f5-a203-0a4115a964bf" />
 ![파트너 ai](https://github.com/user-attachments/assets/2665efe8-3634-4493-9f90-8b8483a00298)
+<img width="460" height="741" alt="파트너 챗봇" src="https://github.com/user-attachments/assets/90ec2702-f0b3-49ba-adb3-115152992883" />
